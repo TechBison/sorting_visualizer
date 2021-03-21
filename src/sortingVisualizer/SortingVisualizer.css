@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.array-container {
+  position: inherit;
+  left: 100px;
+  /* top: 100px; */
+}
+
+.array-bar {
+  width: 4px;
+  display: inline-block;
+  margin: 0 1px;
+}
+#resetButton{
+    border-radius: 100%;
+    background-color: purple;
+    border-color: purple;
+}
