@@ -4,7 +4,7 @@ import { Button, Container, Navbar, Nav } from "react-bootstrap";
 import "bootstrap/dist/css/bootstrap.min.css";
 import { getMergeSortAnimations } from "../sortingAlgo/mergeSort.js";
 
-const NUM_ARRAY_BARS = 185;
+const NUM_ARRAY_BARS = 175;
 
 const PRIMARY_COLOR = "turquoise";
 
